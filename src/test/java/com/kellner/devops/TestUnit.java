@@ -7,7 +7,7 @@ import org.junit.Test;
 
 import static org.junit.Assert.assertEquals;
 
-public class TestMe {
+public class TestUnit {
 
     @Test
     public void aComplexComputation() {

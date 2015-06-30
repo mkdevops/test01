@@ -23,6 +23,7 @@
   <build>
     <finalName>devops</finalName>
   </build>
+<profiles>
         <profile>
             <id>web</id>
             <build>
@@ -79,4 +80,5 @@
                 </plugins>
             </build>
         </profile>
+</profiles>
 </project>
